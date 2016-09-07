@@ -1,0 +1,374 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+<olympics>
+	<year>2016</year>
+	<games>
+		<game>
+			<name>Pool</name>
+			<venue>Black Bull</venue>
+			<date>
+				<start>5/9/2016</start>
+				<end>9/9/2016</end>
+			</date>
+			<personInCharge>Ehsun</personInCharge>
+			<participants>
+				<participant>
+					<name>Mohammad Fareed Ismail Yeop Dahari</name>
+					<mode>Double</mode>
+				</participant>
+				<participant>
+					<name>Mohanaraj Patchappen</name>
+					<mode>Double</mode>
+				</participant>
+				<participant>
+					<name>Denise Ooi</name>
+					<mode>Single Female</mode>
+				</participant>
+				<participant>
+					<name>Andrew Butler</name>
+					<mode>Single Male</mode>
+				</participant>
+			</participants>
+		</game>
+		<game>
+			<name>Jenga</name>
+			<venue>?</venue>
+			<date>
+				<start>13/9/2016</start>
+				<end>22/9/2016</end>
+			</date>
+			<personInCharge>Juliana</personInCharge>
+			<participants>
+				<participant>
+					<name>Lee Chee Wai</name>
+					<mode>Regular</mode>
+				</participant>
+				<participant>
+					<name>Lai Sook Hooi</name>
+					<mode>Regular</mode>
+				</participant>
+				<participant>
+					<name>Ai Leen</name>
+					<mode>Regular</mode>
+				</participant>
+			</participants>
+		</game>
+		<game>
+			<name>Darts</name>
+			<venue>?</venue>
+			<date>
+				<start>13/9/2016</start>
+				<end>22/9/2016</end>
+			</date>
+			<personInCharge>Eddie</personInCharge>
+			<participants>
+				<participant>
+					<name>Mohammad Fareed Ismail Yeop Dahari</name>
+					<mode>Regular</mode>
+				</participant>
+				<participant>
+					<name>Bee Chuen</name>
+					<mode>Regular</mode>
+				</participant>
+				<participant>
+					<name>Tan Sai Boon</name>
+					<mode>Regular</mode>
+				</participant>
+			</participants>
+		</game>
+		<game>
+			<name>Bowling</name>
+			<venue>Black Bull</venue>
+			<date>
+				<start>22/9/2016 1745 hrs</start>
+				<end>23/9/2016 1800 hrs</end>
+			</date>
+			<personInCharge>Deborah</personInCharge>
+			<participants>
+				<participant>
+					<name>Heather</name>
+					<mode>Team #1</mode>
+				</participant>
+				<participant>
+					<name>Firdaus Tahir</name>
+					<mode>Team #1</mode>
+				</participant>
+				<participant>
+					<name>Deborah Chan</name>
+					<mode>Team #1</mode>
+				</participant>
+				<participant>
+					<name>Tan Sai Boon</name>
+					<mode>Team #1</mode>
+				</participant>
+				<participant>
+					<name>Mohammad Fareed Ismail Yeop Dahari</name>
+					<mode>Team #2</mode>
+				</participant>
+				<participant>
+					<name>Haikal</name>
+					<mode>Team #2</mode>
+				</participant>				
+				<participant>
+					<name>Bernard Tan</name>
+					<mode>Team #2</mode>
+				</participant>
+				<participant>
+					<name>Mujoko</name>
+					<mode>Team #2</mode>
+				</participant>
+				<participant>
+					<name>Mashi</name>
+					<mode>Team #3</mode>
+				</participant>
+				<participant>
+					<name>Denise Ooi</name>
+					<mode>Team #3</mode>
+				</participant>
+				<participant>
+					<name>Rauf</name>
+					<mode>Team #3</mode>
+				</participant>
+				<participant>
+					<name>Teo</name>
+					<mode>Team #3</mode>
+				</participant>
+			</participants>
+		</game>
+		<game>
+			<name>Ping Pong</name>
+			<venue>?</venue>
+			<date>
+				<start>26/9/2016</start>
+				<end>6/10/2016</end>
+			</date>
+			<personInCharge>Danny</personInCharge>
+			<participants>
+				<participant>
+					<name>Rauf</name>
+					<mode>TBD</mode>
+				</participant>
+				<participant>
+					<name>Bee Chuen</name>
+					<mode>TBD</mode>
+				</participant>
+				<participant>
+					<name>Justin Yap</name>
+					<mode>TBD</mode>
+				</participant>
+				<participant>
+					<name>Karen Mak</name>
+					<mode>TBD</mode>
+				</participant>
+			</participants>
+		</game>
+	</games>
+	<teams>
+		<team>
+			<name>OpenetGO</name>
+			<teamMembers>
+				<teamMember>
+					<name>Mashitah Murad</name>
+					<email>mashitah.murad@openet.com</email>
+					<picture>Mashitah Murad_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Haikal Ishak</name>
+					<email>haikal.ishak@openet.com</email>
+					<picture>Haikal_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Mujoko Wiyono</name>
+					<email>mujoko.wiyono@openet.com</email>
+					<picture>Mujoko_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Saravana Alagu</name>
+					<email>saravana.alagu@openet.com</email>
+					<picture>Saravana A_jpg.jpg</picture>
+				</teamMember>
+				<!--
+				<teamMember>
+					<name>Nor Azrinah Ahmad</name>
+					<email>azrinah.ahmad@openet.com</email>
+				</teamMember>
+				-->
+				<teamMember>
+					<name>Andrew Butler</name>
+					<email>andrew.butler@openet.com</email>
+					<picture>andrew_butler.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Tan Sai Boon</name>
+					<email>tan.saiboon@openet.com</email>
+					<picture>Tan Sai Boon_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Callie Ng Yean Lam</name>
+					<email>callie.ng@openet.com</email>
+					<picture>Callie Ng_png.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Pang Yau Hoo</name>
+					<email>pangyau.hoo@openet.com</email>
+					<picture>Hoo Pang Yau_JPG.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Venkata Vinod Kumar Nanduri</name>
+					<email>venkata.vinod@openet.com</email>
+					<picture>Venkata Vinod_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Loh Yin Seek</name>
+					<email>loh.yinseek@openet.com</email>
+					<picture>Loh Yin Seek_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Heather Liew Cheau Huiy</name>
+					<email>heather.liew@openet.com</email>
+					<picture>Heather Liew_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Fazreil Amreen Abdul Jalil</name>
+					<email>fazreilamreen.abduljalil@openet.com</email>
+					<picture>Fazreil Amreen Abdul Jalil_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Srideo Khare</name>
+					<email>srideo.khare@openet.com</email>
+					<picture>srideok.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Teik Hooi Lim</name>
+					<email>teikhooi.lim@openet.com</email>
+					<picture>Lim Teik Hooi_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Chee Wai Lee</name>
+					<email>cheewai.lee@openet.com</email>
+					<picture>Lee Chee Wai_JPG.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Ai Leen Ong</name>
+					<email>aileen.ong@openet.com</email>
+					<picture>Ong Ai Leen_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Denise Ooi Sui Li</name>
+					<email>denise.ooi@openet.com</email>
+					<picture>Denise Ooi_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Piyush Jain</name>
+					<email>piyush.jain@openet.com</email>
+					<picture>piyush.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Deborah Chan</name>
+					<email>deborah.chan@openet.com</email>
+					<picture>Deborah Chan Yee Mei_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Bee Chuen Ooi</name>
+					<email>beechuen.ooi@openet.com</email>
+					<picture>Ooi Bee Chuen_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Mohammad Fareed Ismail Yeop Dahari</name>
+					<email>mfareed.ismail@openet.com</email>
+					<picture>Mohammad Fareed_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Muhammad Rauf</name>
+					<email>muhammad.rauf@openet.com</email>
+					<picture>Muhammad Rauf_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Sok Hooi Lai</name>
+					<email>sokhooi.lai@openet.com</email>
+					<picture>Lai Sok Hooi_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Uma Munusamy</name>
+					<email>uma.munusamy@openet.com</email>
+					<picture>Uma Munusamy_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Bernard Tan Jenn Haur</name>
+					<email>bernard.tan@openet.com</email>
+					<picture>Bernard Tan Jenn Haur_png.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Ahmad Firdaus Ahmad Fadzil</name>
+					<email>ahmadfirdaus.ahmadfadzil@openet.com</email>
+					<picture>Ahmad Firdaus_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Goh Joon Sern</name>
+					<email>gohjoon.sern@openet.com</email>
+					<picture>Goh Joon Sern.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Karen Mak</name>
+					<email>karen.mak@openet.com</email>
+					<picture>Karen Mak_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Prakash Subramanian</name>
+					<email>prakash.subramanian@openet.com</email>
+					<picture>Prakash Subramanian_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Mooi Tick Teo</name>
+					<email>mooitick.teo@openet.com</email>
+					<picture>Teo Mooi Tick_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Muhammad Firdaus Tahir</name>
+					<email>muhammadfirdaus.tahir@openet.com</email>
+					<picture>Muhammad Firdaus Tahir_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Stereforth John</name>
+					<email>stereforth.john@openet.com</email>
+					<picture>Stereforth John_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Victor Yong Kig Tsern</name>
+					<email>victor.yong@openet.com</email>
+					<picture>Victor Yong_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Abu Sufian Mamat</name>
+					<email>abusufian.mamat@openet.com</email>
+					<picture>Abu Sufian_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Justin Yap Woon Bin</name>
+					<email>justin.yap@openet.com</email>
+					<picture>Justin Yap_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Lik Wei Lee</name>
+					<email>likwei.lee@openet.com</email>
+					<picture>Lee Lik Wei_JPG.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Chin Meng Chua</name>
+					<email>chinmeng.chua@openet.com</email>
+					<picture>chin meng chua.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Daniel Yeow Soon Keat</name>
+					<email>daniel.yeow@openet.com</email>
+					<picture>Daniel Yeow_jpg.jpg</picture>
+				</teamMember>
+				<teamMember>
+					<name>Mohanaraj Patchappen</name>
+					<email>mohanaraj.patchappen@openet.com</email>
+					<picture>Mohanaraj.jpg</picture>
+				</teamMember>
+			</teamMembers>
+		</team>
+	</teams>
+</olympics>
